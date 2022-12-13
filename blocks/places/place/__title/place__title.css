@@ -12,6 +12,11 @@
         font-size: 42px;
         line-height: 110%;
     }
+
+    .place__title:first-child {
+        font-size: 44px;
+        line-height: 105%;
+    }
 }
 
 @media screen and (min-width: 321px) and (max-width: 767px) {
@@ -27,5 +32,10 @@
         line-height: 109%;
         padding-left: 16px;
         padding-right: 16px;
+    }
+
+    .place__title:first-child {
+        font-size: 30px;
+        line-height: 110%;
     }
 }
