@@ -1,7 +1,6 @@
 .cover__text {
-    position: absolute;
     font-family: 'Inter', 'Arial', sans-serif;
     text-align: center;
-    text-decoration: none;
     color: #fff;
+    z-index: 2;
 }

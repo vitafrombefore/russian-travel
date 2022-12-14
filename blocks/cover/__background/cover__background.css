@@ -10,6 +10,7 @@
     background: url(../../../images/cover-background.jpg);
     background-position: center;
     background-size: cover;
+    text-decoration: none;
 }
 
 .cover__background::before {
